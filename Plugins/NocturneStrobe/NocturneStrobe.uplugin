@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Nocturne Strobe",
+  "Description": "Reusable volumetric strobe and sweeping spotlight actor for Unreal Engine 5.8.",
+  "Category": "Nocturne",
+  "CreatedBy": "Nocturne",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "NocturneStrobe",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

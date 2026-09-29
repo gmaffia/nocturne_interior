@@ -1,0 +1,17 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "FriendlyName": "Nocturne Look",
+    "Description": "Reusable runtime post-process look for dark atmospheric projects.",
+    "Category": "Rendering",
+    "CreatedBy": "Nocturne House",
+    "CanContainContent": false,
+    "Modules": [
+        {
+            "Name": "NocturneLook",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}

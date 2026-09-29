@@ -1,0 +1,17 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "FriendlyName": "Nocturne Television",
+    "Description": "Reusable video television surface with emissive material, audio, and configurable room light.",
+    "Category": "Media",
+    "CreatedBy": "Nocturne House",
+    "CanContainContent": true,
+    "Modules": [
+        {
+            "Name": "NocturneTelevision",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}

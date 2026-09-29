@@ -1,0 +1,58 @@
+# Unreal Engine generated output
+/Binaries/
+/Build/
+/BuildFixed/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Generated output inside project plugins
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# Generated project and IDE files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+*.userprefs
+*.code-workspace
+*.DotSettings.user
+
+# Unreal and compiler transient files
+*.modules
+*.target
+*.obj
+*.pch
+*.ipch
+*.iobj
+*.ipdb
+*.ilk
+*.exp
+*.log
+*.dmp
+*.tmp
+*.temp
+*.cache
+
+# Platform-specific generated files
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor backups
+*.bak
+*.swp
+*.swo
+*~
