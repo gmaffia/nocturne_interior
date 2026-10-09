@@ -1,6 +1,6 @@
 # Nocturne Strobe
 
-`NocturneStrobe` is a reusable Unreal Engine 5.8 runtime plugin that provides a configurable volumetric strobe spotlight with optional sweeping motion.
+`NocturneStrobe` is a reusable Unreal Engine 5.4.4 runtime plugin that provides a configurable volumetric strobe spotlight with optional sweeping motion.
 
 ## Placement
 

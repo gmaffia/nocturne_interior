@@ -1,6 +1,6 @@
 # Nocturne Look
 
-`NocturneLook` is a reusable Unreal Engine 5.8 runtime plugin for a dark, grainy, desaturated visual treatment.
+`NocturneLook` is a reusable Unreal Engine 5.4.4 runtime plugin for a dark, grainy, desaturated visual treatment.
 
 ## Installation
 

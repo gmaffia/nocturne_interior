@@ -187,7 +187,6 @@ void ANocturnePlayerCharacter::SetupPlayerInputComponent(UInputComponent* Player
         this,
         &ANocturnePlayerCharacter::CycleGraphicsQuality);
     PlayerInputComponent->BindKey(EKeys::P, IE_Pressed, this, &ANocturnePlayerCharacter::ToggleGraphicsFeaturePanel);
-    PlayerInputComponent->BindKey(EKeys::M, IE_Pressed, this, &ANocturnePlayerCharacter::ToggleMegaLights);
     PlayerInputComponent->BindKey(EKeys::J, IE_Pressed, this, &ANocturnePlayerCharacter::ToggleLumenHardwareRayTracing);
     PlayerInputComponent->BindKey(EKeys::V, IE_Pressed, this, &ANocturnePlayerCharacter::ToggleVolumetricFog);
     PlayerInputComponent->BindKey(EKeys::T, IE_Pressed, this, &ANocturnePlayerCharacter::ToggleTelevisionShadows);
@@ -302,8 +301,6 @@ void ANocturnePlayerCharacter::ApplyGraphicsQuality()
     CurrentGraphicsQualityIndex = FMath::Clamp(CurrentGraphicsQualityIndex, 0, 2);
 
     static constexpr float ResolutionScales[] = {50.0f, 75.0f, 100.0f};
-    static constexpr int32 MegaLightsDownsampleModes[] = {2, 1, 0};
-    static constexpr int32 MegaLightsSamplesPerPixel[] = {2, 4, 4};
     static constexpr int32 VolumeGridPixelSizes[] = {8, 6, 4};
     static constexpr int32 VolumeGridDepths[] = {128, 160, 192};
     static constexpr float LocalShadowLodBiases[] = {1.0f, 0.0f, -1.0f};
@@ -329,18 +326,6 @@ void ANocturnePlayerCharacter::ApplyGraphicsQuality()
         }
     };
 
-    SetIntegerConsoleVariable(
-        TEXT("r.MegaLights.DownsampleMode"),
-        MegaLightsDownsampleModes[CurrentGraphicsQualityIndex]);
-    SetIntegerConsoleVariable(
-        TEXT("r.MegaLights.NumSamplesPerPixel"),
-        MegaLightsSamplesPerPixel[CurrentGraphicsQualityIndex]);
-    SetIntegerConsoleVariable(
-        TEXT("r.MegaLights.Volume.GridPixelSize"),
-        VolumeGridPixelSizes[CurrentGraphicsQualityIndex]);
-    SetIntegerConsoleVariable(
-        TEXT("r.MegaLights.Volume.GridSizeZ"),
-        VolumeGridDepths[CurrentGraphicsQualityIndex]);
     SetIntegerConsoleVariable(
         TEXT("r.VolumetricFog.GridPixelSize"),
         VolumeGridPixelSizes[CurrentGraphicsQualityIndex]);
@@ -377,7 +362,6 @@ void ANocturnePlayerCharacter::InitializeGraphicsFeatures()
         return DefaultValue;
     };
 
-    bMegaLightsEnabled = GetConsoleVariableState(TEXT("r.MegaLights.Allowed"), true);
     bLumenHardwareRayTracingEnabled = GetConsoleVariableState(TEXT("r.Lumen.HardwareRayTracing"), true);
     bVolumetricFogEnabled = GetConsoleVariableState(TEXT("r.VolumetricFog"), true);
 
@@ -385,7 +369,6 @@ void ANocturnePlayerCharacter::InitializeGraphicsFeatures()
     {
         constexpr const TCHAR* Section = TEXT("NocturneGraphicsFeatures");
         GConfig->GetBool(Section, TEXT("ShowPanel"), bShowGraphicsFeaturePanel, GGameUserSettingsIni);
-        GConfig->GetBool(Section, TEXT("MegaLights"), bMegaLightsEnabled, GGameUserSettingsIni);
         GConfig->GetBool(Section, TEXT("LumenHardwareRayTracing"), bLumenHardwareRayTracingEnabled, GGameUserSettingsIni);
         GConfig->GetBool(Section, TEXT("VolumetricFog"), bVolumetricFogEnabled, GGameUserSettingsIni);
         GConfig->GetBool(Section, TEXT("TelevisionShadows"), bTelevisionShadowsEnabled, GGameUserSettingsIni);
@@ -405,7 +388,6 @@ void ANocturnePlayerCharacter::SaveGraphicsFeatures() const
 
     constexpr const TCHAR* Section = TEXT("NocturneGraphicsFeatures");
     GConfig->SetBool(Section, TEXT("ShowPanel"), bShowGraphicsFeaturePanel, GGameUserSettingsIni);
-    GConfig->SetBool(Section, TEXT("MegaLights"), bMegaLightsEnabled, GGameUserSettingsIni);
     GConfig->SetBool(Section, TEXT("LumenHardwareRayTracing"), bLumenHardwareRayTracingEnabled, GGameUserSettingsIni);
     GConfig->SetBool(Section, TEXT("VolumetricFog"), bVolumetricFogEnabled, GGameUserSettingsIni);
     GConfig->SetBool(Section, TEXT("TelevisionShadows"), bTelevisionShadowsEnabled, GGameUserSettingsIni);
@@ -424,7 +406,6 @@ void ANocturnePlayerCharacter::ApplyGraphicsFeatures()
         }
     };
 
-    SetConsoleVariable(TEXT("r.MegaLights.Allowed"), bMegaLightsEnabled);
     SetConsoleVariable(TEXT("r.Lumen.HardwareRayTracing"), bLumenHardwareRayTracingEnabled);
     SetConsoleVariable(TEXT("r.VolumetricFog"), bVolumetricFogEnabled);
     ApplyActorGraphicsFeatures();
@@ -497,13 +478,6 @@ void ANocturnePlayerCharacter::ApplyActorGraphicsFeatures()
 void ANocturnePlayerCharacter::ToggleGraphicsFeaturePanel()
 {
     bShowGraphicsFeaturePanel = !bShowGraphicsFeaturePanel;
-    SaveGraphicsFeatures();
-}
-
-void ANocturnePlayerCharacter::ToggleMegaLights()
-{
-    bMegaLightsEnabled = !bMegaLightsEnabled;
-    ApplyGraphicsFeatures();
     SaveGraphicsFeatures();
 }
 

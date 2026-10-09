@@ -7,6 +7,7 @@
 #include "Engine/World.h"
 #include "GameFramework/PlayerController.h"
 #include "InputCoreTypes.h"
+#include "Runtime/Launch/Resources/Version.h"
 
 ANocturneLookController::ANocturneLookController()
 {
@@ -68,8 +69,13 @@ void ANocturneLookController::BuildSettings()
     LookSettings.FilmGrainIntensityMidtones = .45f;
     LookSettings.bOverride_FilmGrainIntensityHighlights = true;
     LookSettings.FilmGrainIntensityHighlights = .1f;
+#if ENGINE_MAJOR_VERSION > 5 || ENGINE_MINOR_VERSION >= 5
     LookSettings.bOverride_FilmGrainScale = true;
     LookSettings.FilmGrainScale = FVector2f(1.35f, 1.35f);
+#else
+    LookSettings.bOverride_FilmGrainTexelSize = true;
+    LookSettings.FilmGrainTexelSize = 1.35f;
+#endif
     LookSettings.bOverride_VignetteIntensity = true;
     LookSettings.VignetteIntensity = VignetteIntensity;
     LookSettings.bOverride_SceneFringeIntensity = true;

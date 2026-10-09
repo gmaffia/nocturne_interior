@@ -3,7 +3,7 @@
   "Version": 1,
   "VersionName": "1.0.0",
   "FriendlyName": "Nocturne Strobe",
-  "Description": "Reusable volumetric strobe and sweeping spotlight actor for Unreal Engine 5.8.",
+  "Description": "Reusable volumetric strobe and sweeping spotlight actor for Unreal Engine 5.4.4.",
   "Category": "Nocturne",
   "CreatedBy": "Nocturne",
   "CanContainContent": false,

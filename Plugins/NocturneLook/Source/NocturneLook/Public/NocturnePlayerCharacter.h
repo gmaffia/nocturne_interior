@@ -37,7 +37,6 @@ public:
     FText GetGraphicsQualityDisplayName() const;
 
     bool ShouldShowGraphicsFeaturePanel() const { return bShowGraphicsFeaturePanel; }
-    bool IsMegaLightsEnabled() const { return bMegaLightsEnabled; }
     bool IsLumenHardwareRayTracingEnabled() const { return bLumenHardwareRayTracingEnabled; }
     bool IsVolumetricFogEnabled() const { return bVolumetricFogEnabled; }
     bool AreTelevisionShadowsEnabled() const { return bTelevisionShadowsEnabled; }
@@ -104,7 +103,6 @@ private:
     float GraphicsFeatureRefreshAccumulator = 0.0f;
     bool bRecenterMouseWhileCaptured = true;
     bool bShowGraphicsFeaturePanel = true;
-    bool bMegaLightsEnabled = true;
     bool bLumenHardwareRayTracingEnabled = true;
     bool bVolumetricFogEnabled = true;
     bool bTelevisionShadowsEnabled = true;
@@ -128,7 +126,6 @@ private:
     void ApplyGraphicsFeatures();
     void ApplyActorGraphicsFeatures();
     void ToggleGraphicsFeaturePanel();
-    void ToggleMegaLights();
     void ToggleLumenHardwareRayTracing();
     void ToggleVolumetricFog();
     void ToggleTelevisionShadows();

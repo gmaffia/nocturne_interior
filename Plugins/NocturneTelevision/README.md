@@ -1,6 +1,6 @@
 # Nocturne Television
 
-`NocturneTelevision` is a reusable Unreal Engine 5.8 runtime plugin that displays a video on an emissive television surface and provides configurable analog distortion, audio, and room lighting.
+`NocturneTelevision` is a reusable Unreal Engine 5.4.4 runtime plugin that displays a video on an emissive television surface and provides configurable analog distortion, audio, and room lighting.
 
 ## Setup
 

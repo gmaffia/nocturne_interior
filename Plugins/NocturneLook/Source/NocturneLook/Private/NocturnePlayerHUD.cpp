@@ -91,9 +91,6 @@ void ANocturnePlayerHUD::DrawHUD()
     const TArray<FString> GraphicsLines = {
         TEXT("GRAPHICS FEATURES  [P: hide]"),
         FString::Printf(
-            TEXT("[M] Direct lighting: %s"),
-            PlayerCharacter->IsMegaLightsEnabled() ? TEXT("MegaLights") : TEXT("Deferred")),
-        FString::Printf(
             TEXT("[J] Lumen tracing: %s"),
             PlayerCharacter->IsLumenHardwareRayTracingEnabled() ? TEXT("Hardware") : TEXT("Software")),
         FString::Printf(

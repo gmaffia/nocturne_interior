@@ -178,7 +178,7 @@ void ANocturneStrobeLight::RefreshAudioSettings()
     Settings.ConeOffset = AudioConeOffset;
     Settings.ConeSphereRadius = AudioRearBleedRadius;
     Settings.ConeSphereFalloffDistance = AudioRearBleedFalloffDistance;
-    DirectionalAudio->SetAttenuationOverrides(Settings);
+    DirectionalAudio->AdjustAttenuation(Settings);
 }
 
 void ANocturneStrobeLight::UpdateAudioPlaybackState()

@@ -1,18 +1,18 @@
 # Nocturne Interior
 
-Nocturne Interior is a first-person atmospheric horror prototype built with Unreal Engine 5.8. It combines a furnished stylized interior with custom runtime systems for an analog-horror post-process look, a video-driven television, a volumetric strobe light, player stance controls, and scalable rendering features.
+Nocturne Interior is a first-person atmospheric horror prototype built with Unreal Engine 5.4.4. It combines a furnished stylized interior with custom runtime systems for an analog-horror post-process look, a video-driven television, a volumetric strobe light, player stance controls, and scalable rendering features.
 
 The project is currently configured for Windows and starts directly in the main `NocturneInterior` level.
 
 ## Requirements
 
-- Unreal Engine 5.8
+- Unreal Engine 5.4.4
 - Windows 10 or Windows 11
 - Visual Studio 2022 with **MSVC v143 C++ x64/x86 build tools**
 - A recent Windows SDK installed through the Visual Studio Installer
 - DirectX 12 and Shader Model 6 support
 
-The game and editor targets use `BuildSettingsVersion.V7` and the latest Unreal include order.
+The game and editor targets use `BuildSettingsVersion.V5` and the Unreal 5.4 include order.
 
 Hardware ray tracing is enabled in the project settings. It can be disabled at runtime, but using the hardware path requires compatible GPU hardware and drivers.
 
@@ -20,7 +20,7 @@ Hardware ray tracing is enabled in the project settings. It can be disabled at r
 
 1. Clone or copy the project.
 2. Right-click `NocturneInterior.uproject` and select **Generate Visual Studio project files** if the solution is missing or stale.
-3. Open `NocturneInterior.uproject` in Unreal Engine 5.8.
+3. Open `NocturneInterior.uproject` in Unreal Engine 5.4.4.
 4. Allow Unreal to compile the native project modules when prompted.
 5. Open `/Game/StylizedKitchen/Levels/NocturneInterior` if it is not already loaded.
 6. Use **Play** to run the first-person experience.
@@ -84,6 +84,8 @@ See [Plugins/NocturneLook/README.md](Plugins/NocturneLook/README.md) for install
 
 Television video files must remain under `Content/Movies` so Unreal can stage them correctly for packaged builds. A checkerboard screen normally means the media source did not open, the media file was not staged, or the screen material lost its media texture input.
 
+The UE 5.4 distortion material uses native material nodes. With Substrate enabled, its processed video must feed the emissive input of the node connected to `Front Material`; connecting only the legacy `Emissive Color` output does not update the rendered screen. The main level uses `M_NocturneTelevisionDistorted`, with distortion enabled and the original media source preserved. The migration render test checks that disabling distortion restores the original image and enabling it changes the rendered pixels.
+
 See [Plugins/NocturneTelevision/README.md](Plugins/NocturneTelevision/README.md) for setup and tuning details.
 
 ### Nocturne Strobe
@@ -121,14 +123,13 @@ The player begins seated by default. Camera heights, movement speed, acceleratio
 | --- | --- |
 | `G` | Cycle Performance, High, and Native graphics profiles |
 | `P` | Show or hide the graphics-feature panel |
-| `M` | Toggle MegaLights or standard deferred direct lighting |
 | `J` | Toggle Lumen hardware or software ray tracing |
 | `V` | Toggle volumetric fog |
 | `T` | Toggle television-light shadows |
 | `Y` | Toggle strobe shadows |
 | `B` | Toggle the strobe between volumetric and surface-only lighting |
 
-The graphics profiles change resolution scale, MegaLights sampling, volumetric grid resolution, Virtual Shadow Map sampling, and shadow-page budgets. Feature-toggle choices are persisted in the local game user settings.
+The graphics profiles change resolution scale, volumetric grid resolution, Virtual Shadow Map sampling, and shadow-page budgets. Feature-toggle choices are persisted in the local game user settings.
 
 Virtual Shadow Maps and Substrate are project-level features and require a restart if their configuration changes.
 
@@ -168,10 +169,10 @@ The default renderer is intentionally quality-focused:
 - Mesh distance fields
 - Substrate materials
 - Static lighting disabled
-- High-resolution volumetric fog and MegaLights grids
+- High-resolution volumetric fog grids
 - Maximum default scalability at 2560 x 1440
 
-These settings can be expensive, especially volumetric fog, strobe shadows, MegaLights, Lumen hardware ray tracing, and the 100% resolution profile. Use the runtime controls to compare techniques and isolate performance costs before changing the project defaults.
+These settings can be expensive, especially volumetric fog, strobe shadows, Lumen hardware ray tracing, and the 100% resolution profile. Use the runtime controls to compare techniques and isolate performance costs before changing the project defaults.
 
 ## Packaging for Windows
 

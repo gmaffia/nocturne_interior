@@ -1,0 +1,330 @@
+Begin Object Class=/Script/Engine.Material Name="M_NocturneTelevisionScreen" ExportPath="/Script/Engine.Material'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen'"
+   Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="M_NocturneTelevisionScreenEditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:M_NocturneTelevisionScreenEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionMultiply_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_10" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_11" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_12" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_12'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_13" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_13'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_14" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_14'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_15'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_16" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_16'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_17" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_17'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_18" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_18'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_19" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_19'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_20" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_20'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_21" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_21'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_22" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_22'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_23" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_23'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_6" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_9" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubstrateShadingModels Name="MaterialExpressionSubstrateShadingModels_0" ExportPath="/Script/Engine.MaterialExpressionSubstrateShadingModels'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionSubstrateShadingModels_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_1" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_1'"
+   End Object
+   Begin Object Name="M_NocturneTelevisionScreenEditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:M_NocturneTelevisionScreenEditorOnlyData'"
+      EmissiveColor=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionScreen:MaterialExpressionMultiply_1'")
+      FrontMaterial=(Expression="/Script/Engine.MaterialExpressionSubstrateShadingModels'M_NocturneTelevisionScreen:MaterialExpressionSubstrateShadingModels_0'")
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_0'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_0'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionScreen:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_1'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_2'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_3'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_4'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_5'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_6'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_7'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_8'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_9'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_10'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_11'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_1'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_12'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionScreen:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_13'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_14'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_15'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_16'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_17'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_18'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_19'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_20'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_21'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_22'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_23'"))
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_0'")
+      MaterialExpressionEditorX=-350
+      MaterialExpressionEditorY=-50
+      MaterialExpressionGuid=944168AA49F63AA842F26EAE62D22FFE
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionMultiply_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_12'")
+      MaterialExpressionEditorX=-350
+      MaterialExpressionEditorY=-50
+      MaterialExpressionGuid=A6CC32EF4868D0877F29F8849A61AEA0
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_0'"
+      DefaultValue=2.500000
+      ParameterName="EmissiveIntensity"
+      ExpressionGUID=333C9B3E45CF49AE0EC627AE49F1D532
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=100
+      MaterialExpressionGuid=9CC6A5334488D76FCD22BA8A6653F6B5
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_1'"
+      DefaultValue=1.000000
+      ParameterName="DistortionEnabled"
+      ExpressionGUID=DBEF0AC1448795E5BA2B47813FD0BDDB
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=250
+      MaterialExpressionGuid=F8C62912484188010BAF0D9B11EDE3E3
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_10" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_10'"
+      DefaultValue=0.450000
+      ParameterName="VignetteIntensity"
+      ExpressionGUID=6AB10E2D4762F1F49CE598A564357BE1
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=925
+      MaterialExpressionGuid=23B74BE84BD4BE1BBE3F75AE19C580B3
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_11" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_11'"
+      DefaultValue=0.180000
+      ParameterName="TrackingBarIntensity"
+      ExpressionGUID=A52B8A9F496BBCD69A0C07BE9E0DFC82
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=1000
+      MaterialExpressionGuid=782DC5324E5D54BCB821208FDAD66525
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_12" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_12'"
+      DefaultValue=2.500000
+      ParameterName="EmissiveIntensity"
+      ExpressionGUID=E29726F04DF34E508FFF61A17CAD98F8
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=100
+      MaterialExpressionGuid=CF0A544347366ECE5F27F997F469F3D5
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_13" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_13'"
+      DefaultValue=1.000000
+      ParameterName="DistortionEnabled"
+      ExpressionGUID=FB98265C477DC274D3DA0E907CA34FDF
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=250
+      MaterialExpressionGuid=600302AC45DF5D83900BBD876E627C3C
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_14" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_14'"
+      DefaultValue=0.800000
+      ParameterName="DistortionAmount"
+      ExpressionGUID=0DA5254B4F9CB406ADBFB8A2C092CDDA
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=325
+      MaterialExpressionGuid=AC873F2D48515FEFDF403689C7E6D68E
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_15'"
+      DefaultValue=0.220000
+      ParameterName="ScanlineIntensity"
+      ExpressionGUID=A13C09AB46B66EB483FFA2BB19039A2F
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=688510F7417FF2B811C9C9AAC78BDC24
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_16" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_16'"
+      DefaultValue=280.000000
+      ParameterName="ScanlineDensity"
+      ExpressionGUID=EEB1C95B491F267AED5DC5AD80A17D44
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=475
+      MaterialExpressionGuid=0BA059D0401F6C1DFB4B6791B3CB0FB2
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_17" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_17'"
+      DefaultValue=0.120000
+      ParameterName="NoiseIntensity"
+      ExpressionGUID=B30ABBBA43D86159B3A546AFA06701B2
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=550
+      MaterialExpressionGuid=DCA4B2C545EB73BD9D90DF9ADB99EB86
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_18" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_18'"
+      DefaultValue=0.012000
+      ParameterName="HorizontalJitter"
+      ExpressionGUID=87337DFE4AB24BD8DFFB7E90F544392F
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=625
+      MaterialExpressionGuid=0931F85645702BA2EE2DFB9158ABD435
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_19" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_19'"
+      DefaultValue=0.015000
+      ParameterName="VerticalRollSpeed"
+      ExpressionGUID=2841F6244EAB97A0A1B4BE95759CE380
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=700
+      MaterialExpressionGuid=80B3134E4641566B87F0298B690A0023
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_2'"
+      DefaultValue=0.800000
+      ParameterName="DistortionAmount"
+      ExpressionGUID=15B259CB4A8A0AC5A3C3E0BE39831C1F
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=325
+      MaterialExpressionGuid=515C6B5F4E86F0FB6596C09DC34E930E
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_20" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_20'"
+      DefaultValue=0.004000
+      ParameterName="ChromaticAberration"
+      ExpressionGUID=DB56E00C4C94695ACA2B1CBC8A2EA0A5
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=775
+      MaterialExpressionGuid=734EA77B4CFF60092D504AA955DCFA8D
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_21" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_21'"
+      DefaultValue=0.060000
+      ParameterName="FlickerIntensity"
+      ExpressionGUID=EB543BF348E2068D95D753BAA70C7FE5
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=850
+      MaterialExpressionGuid=6E771AA14A8E862705AE02B41C06FBA9
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_22" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_22'"
+      DefaultValue=0.450000
+      ParameterName="VignetteIntensity"
+      ExpressionGUID=7DCFC6124152783E581706BFA6B9BAD4
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=925
+      MaterialExpressionGuid=8EA9A2BF42D508768B4970B117CDCE02
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_23" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_23'"
+      DefaultValue=0.180000
+      ParameterName="TrackingBarIntensity"
+      ExpressionGUID=A67F27D64E3991042A2CC3997E36D72A
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=1000
+      MaterialExpressionGuid=782ABD2647B0CA4AED102280D2D235FB
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_3'"
+      DefaultValue=0.220000
+      ParameterName="ScanlineIntensity"
+      ExpressionGUID=56697B824FD7ADE1B62088AE2BA7036F
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=4F7F76614927F76A41AC41AD1B4D778D
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_4'"
+      DefaultValue=280.000000
+      ParameterName="ScanlineDensity"
+      ExpressionGUID=27208ADA4D0B9587BA1CE194727738CF
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=475
+      MaterialExpressionGuid=9FBF456442350533A2F278A9F1AFAD4C
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_5'"
+      DefaultValue=0.120000
+      ParameterName="NoiseIntensity"
+      ExpressionGUID=D9837688430EAA6EEF7B1393BA43176A
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=550
+      MaterialExpressionGuid=67DC8910482D8056DDB587871443066F
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_6" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_6'"
+      DefaultValue=0.012000
+      ParameterName="HorizontalJitter"
+      ExpressionGUID=E1A36A024555A94A12228F986F9F35D4
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=625
+      MaterialExpressionGuid=8B0B519D40BE1802190621966D71F6F0
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_7'"
+      DefaultValue=0.015000
+      ParameterName="VerticalRollSpeed"
+      ExpressionGUID=315485ED41A8B3B644AEEA8B428F53D7
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=700
+      MaterialExpressionGuid=94673BD64BA2DF537EADCD8D776BF476
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_8'"
+      DefaultValue=0.004000
+      ParameterName="ChromaticAberration"
+      ExpressionGUID=777BDC314D6B6EFA2C5150B12F5D4828
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=775
+      MaterialExpressionGuid=CFDCC18649B1B28A0A8D0D812BF38169
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_9" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionScalarParameter_9'"
+      DefaultValue=0.060000
+      ParameterName="FlickerIntensity"
+      ExpressionGUID=49D2290D40F13430392E309C677DF381
+      MaterialExpressionEditorX=-1000
+      MaterialExpressionEditorY=850
+      MaterialExpressionGuid=EAE07A4E452A1D6322032F8B8F288BFC
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionSubstrateShadingModels_0" ExportPath="/Script/Engine.MaterialExpressionSubstrateShadingModels'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionSubstrateShadingModels_0'"
+      EmissiveColor=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionScreen:MaterialExpressionMultiply_0'")
+      ShadingModelOverride=MSM_Unlit
+      MaterialExpressionGuid=75681F6D4C0FD5D33FE3BAA24D40B09E
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_0'"
+      ParameterName="VideoTexture"
+      ExpressionGUID=41B9E0594AB84192F7EC9489815ED01D
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=-100
+      MaterialExpressionGuid=5E185AFA481AB3354A4B769E16DB5D08
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_1" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionScreen.M_NocturneTelevisionScreen:MaterialExpressionTextureSampleParameter2D_1'"
+      ParameterName="VideoTexture"
+      ExpressionGUID=1B80AC8843725C87F3DFBC89CCD8F4B8
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=-100
+      MaterialExpressionGuid=304574314CC6175E0079299F93673DED
+      Material="/Script/Engine.Material'M_NocturneTelevisionScreen'"
+   End Object
+   ShadingModel=MSM_Unlit
+   ShadingModels=(ShadingModelField=1)
+   TwoSided=True
+   EditorX=350
+   bCanMaskedBeAssumedOpaque=True
+   RefractionCoverageMode=RCM_CoverageIgnored
+   StateId=9203215544B6DC3D472C6DB86E2277A7
+   EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'M_NocturneTelevisionScreenEditorOnlyData'"
+   LightingGuid=DB6D638B40CAD91A233FA393772B127E
+End Object

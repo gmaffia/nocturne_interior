@@ -1,0 +1,1156 @@
+Begin Object Class=/Script/Engine.Material Name="M_NocturneTelevisionDistorted54" ExportPath="/Script/Engine.Material'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54'"
+   Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="M_NocturneTelevisionDistorted54EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:M_NocturneTelevisionDistorted54EditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAbs Name="MaterialExpressionAbs_0" ExportPath="/Script/Engine.MaterialExpressionAbs'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAbs_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_4" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_5" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_6" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_7" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_8" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_9" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_0" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_1" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_2" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_3" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_1" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_2" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_3" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_4" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_10" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_11" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_12'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_13" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_13'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_14" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_14'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_15" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_15'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_16" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_16'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_17" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_17'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_18" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_18'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_19" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_19'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_3" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_6" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_7" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_8" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_9" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFloor Name="MaterialExpressionFloor_0" ExportPath="/Script/Engine.MaterialExpressionFloor'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFloor_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFrac Name="MaterialExpressionFrac_0" ExportPath="/Script/Engine.MaterialExpressionFrac'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFrac_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFrac Name="MaterialExpressionFrac_1" ExportPath="/Script/Engine.MaterialExpressionFrac'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFrac_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFrac Name="MaterialExpressionFrac_2" ExportPath="/Script/Engine.MaterialExpressionFrac'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFrac_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionLinearInterpolate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMax Name="MaterialExpressionMax_0" ExportPath="/Script/Engine.MaterialExpressionMax'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMax_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_11" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_12" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_12'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_13" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_13'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_14" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_14'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_15" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_15'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_16" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_16'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_17" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_17'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_18" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_18'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_19" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_19'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_20" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_20'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_21" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_21'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_22" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_22'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_23" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_23'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_24" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_24'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_25" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_25'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_26" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_26'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_27" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_27'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_28" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_28'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_29" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_29'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_0" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_1" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_2" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_3" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_4" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_0" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_1" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_2" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_3" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_4" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_5" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_6" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSaturate Name="MaterialExpressionSaturate_7" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_10" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_11" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_11'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_6" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_9" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_0" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_1" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_2" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_3" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_1" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_2" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_3" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_4" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_5" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_1" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_2" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_3" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0" ExportPath="/Script/Engine.MaterialExpressionTime'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubstrateShadingModels Name="MaterialExpressionSubstrateShadingModels_0" ExportPath="/Script/Engine.MaterialExpressionSubstrateShadingModels'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubstrateShadingModels_0'"
+   End Object
+   Begin Object Name="M_NocturneTelevisionDistorted54EditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:M_NocturneTelevisionDistorted54EditorOnlyData'"
+      FrontMaterial=(Expression="/Script/Engine.MaterialExpressionSubstrateShadingModels'M_NocturneTelevisionDistorted54:MaterialExpressionSubstrateShadingModels_0'")
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_0'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_1'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_2'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_3'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_4'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_5'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_6'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_7'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_8'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_9'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_10'","/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_11'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_0'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_1'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionTextureCoordinate'M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'","/Script/Engine.MaterialExpressionTime'M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'","/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_0'","/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_0'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_2'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_0'","/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_0'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_3'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_4'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_5'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_6'","/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_0'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_1'","/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_0'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_7'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_1'","/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_1'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_0'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_2'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_1'","/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_2'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_2'","/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_3'","/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_0'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_3'","/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_4'","/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_2'","/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_3'","/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_1'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_2'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_8'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_3'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_3'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_9'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_2'","/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_0'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_10'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_4'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_11'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_5'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_12'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_4'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_6'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_13'","/Script/Engine.MaterialExpressionFloor'M_NocturneTelevisionDistorted54:MaterialExpressionFloor_0'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_5'","/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_2'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_7'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_14'","/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_1'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_8'","/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_1'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_15'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_6'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_9'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_16'","/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_3'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_10'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_17'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_11'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_7'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_18'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_3'","/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_1'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_19'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_12'","/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_2'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_13'","/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_3'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_20'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_21'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_8'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_14'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_22'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_4'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_23'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_5'","/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_2'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_24'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_15'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_25'","/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_4'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_16'","/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_9'","/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_2'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_17'","/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_5'","/Script/Engine.MaterialExpressionAbs'M_NocturneTelevisionDistorted54:MaterialExpressionAbs_0'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_18'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_26'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_6'","/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_3'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_27'","/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_7'","/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_4'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_28'","/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_19'","/Script/Engine.MaterialExpressionMax'M_NocturneTelevisionDistorted54:MaterialExpressionMax_0'","/Script/Engine.MaterialExpressionLinearInterpolate'M_NocturneTelevisionDistorted54:MaterialExpressionLinearInterpolate_0'","/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_29'"))
+   End Object
+   Begin Object Name="MaterialExpressionAbs_0" ExportPath="/Script/Engine.MaterialExpressionAbs'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAbs_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_5'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=B111E88B41F373709DA63B871A339AA6
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_2'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=A75DCDA74B6D2FCA31379CA53B879E8E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_0'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=30E627D54E411453ED95BBBD20E51F1C
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_1'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=420CC029442B4A266C279E814EE80D0C
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_8'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_3'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=0AFC840C486B2E1E2E0007B7B51956DD
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_4" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_4'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_11'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_12'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=F0CDE25F4249D06F461F69A3E55024DB
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_5" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_5'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionFloor'M_NocturneTelevisionDistorted54:MaterialExpressionFloor_0'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=34D088594B32C8E0DC2BD685A4909C26
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_10'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_15'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=D7CE18964B96023658E2FFB03467076A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_7" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_7'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_17'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_11'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=F7F209AE4F79EDEB5EC9B58B16C191AC
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_8" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_8'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_20'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_21'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=C8A82A0246CD945F7F2175A545B99D3A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_9" ExportPath="/Script/Engine.MaterialExpressionAdd'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAdd_9'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_16'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=7F4AB4BF4E5A4A5BC77305938E8DE344
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_0" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_6'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=DD13861842591381CEC402A5C48FBF07
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_1" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_7'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_1'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=9AE1E9CD4DFC74A54CFFF482C87E87F7
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_2" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_3'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=AD71DF164292C77FDB80C6BA90B6044E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_3" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_4'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=88F49B884FE91317237ED3A8BB3A4292
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'")
+      R=True
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=43AFFA5A4335B235BB6BD398DD1B5247
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_1" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'")
+      G=True
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=4895DD1041104CAA92FF1197549E0A92
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_2" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      R=True
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=E43AC5EF4C6A391A5EEEA7B499B5F9B3
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_3" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_3'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      G=True
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=79F665F04EDBBA062BC87EB31DFE2CCD
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_4" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_4'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_3'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=True
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=02FECC0C4BEFECBD17EFF1902E2BF8E9
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_0'"
+      R=30.000000
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=B613144449D22A95445A8B9854686C1E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_1'"
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=4A9242B94EC55955518C59B00C3CF2A9
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_10" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_10'"
+      R=0.500000
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=B7104C0A46ECD7E2C4516AB2126EE794
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_11" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_11'"
+      R=0.500000
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=9A7B5DCF4A970259BA56A99D62C021B5
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_12'"
+      R=0.500000
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=9C7D922F4EC7C254201D9DBE17558367
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_13" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_13'"
+      R=0.500000
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=C571F8BA42E216C2A68BD78C400660E1
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_14" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_14'"
+      R=2.000000
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=C04E5C6D46F4B081696C8B9FF9485B7D
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_15" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_15'"
+      R=0.170000
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=5B43E8A34C61D320CC0EB3A3A0CA11EF
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_16" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_16'"
+      R=0.500000
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=2210AA8041AEBF40111911B8FFE0CA1B
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_17" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_17'"
+      R=0.500000
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=452A6674456C1595CD0D8E88917A23EF
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_18" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_18'"
+      R=20.000000
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=671648A94E563C93FB1FF3830CBFC1B8
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_19" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_19'"
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=2520
+      MaterialExpressionGuid=0B346497400C64D4B1013A87A6098B3E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_2'"
+      R=0.500000
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=9873CE70444F94242B6CDC8E94C8F118
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_3'"
+      R=0.500000
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=3A3147654F0D6058EEA322AF4B2C8FA3
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_4'"
+      R=12.989800
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=D28AF0824C6D49E236F009903536A8DE
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_5'"
+      R=78.233002
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=445456DF42C3C79015CBF3BC0BD8FED0
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_6" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_6'"
+      R=30.000000
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=3A3D04654B69B1C32D38DA9F5EE5906D
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_7'"
+      R=43758.546875
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=70F5200D47632BC981600C95A3C73332
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_8" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_8'"
+      R=0.500000
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=7EE736804EA9ADE92F49289CF46B4DAC
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionConstant_9" ExportPath="/Script/Engine.MaterialExpressionConstant'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionConstant_9'"
+      R=7.500000
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=2A6890B842108C0EE5F23BA69990417C
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionFloor_0" ExportPath="/Script/Engine.MaterialExpressionFloor'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFloor_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_13'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=D90AA9CC404AC723CE2DD385C7FD5E5C
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionFrac_0" ExportPath="/Script/Engine.MaterialExpressionFrac'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFrac_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_1'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=44E58A424FF3F6EA44BB9FA4FBFC35B8
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionFrac_1" ExportPath="/Script/Engine.MaterialExpressionFrac'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFrac_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_14'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=56DBF6C5498D0419308019A96EB8D3B6
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionFrac_2" ExportPath="/Script/Engine.MaterialExpressionFrac'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionFrac_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_9'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=7761AC554F6A1FE2A29F43B81569C4D9
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0" ExportPath="/Script/Engine.MaterialExpressionLinearInterpolate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionLinearInterpolate_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression="/Script/Engine.MaterialExpressionMax'M_NocturneTelevisionDistorted54:MaterialExpressionMax_0'")
+      Alpha=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=2520
+      MaterialExpressionGuid=E75159A84B2304ABA5D999BA03FC17E1
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMax_0" ExportPath="/Script/Engine.MaterialExpressionMax'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMax_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_28'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_19'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=2520
+      MaterialExpressionGuid=3883719A4D18BCB4CFBD439B26462A62
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_1'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=D272416549BBDDEF09D6FDB0FB19BC41
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_4'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=AED6DE8849DE9A482D421A9F334DE680
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_10'"
+      A=(Expression="/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_0'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=49C19C0D477EBED9734E9DBFD5E7E8EF
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_11" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_11'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_4'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=929C8C0A4F4EB84D1C8637960A18D312
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_12" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_12'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_5'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=CF2DDBE943419EA6E55B5E892A1B5127
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_13" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_13'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_6'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=03E177EF4B99C360FDF894BDEC0E8ED9
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_14" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_14'"
+      A=(Expression="/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_7'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=958085B347F0D0B4B5FC718B39B9FD6A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_15" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_15'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_5'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=43467C4840C44610F49921A267183D49
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_16" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_16'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_9'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=A1AA08394B6609A87025B6AD7EA6CD93
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_17" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_17'"
+      A=(Expression="/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_10'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=F6F60904467FD74B3C1C938233AA4BFE
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_18" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_18'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_7'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_9'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=08D6AD52401F8CA67D678A9C0B684089
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_19" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_19'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_6'")
+      B=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_1'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=A3A6291A4877B5A315AFB68567E7CC53
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_0'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=4FD6A1D844A9C896707E388EBB27D9F0
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_20" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_20'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_2'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=1A36615046CCB7CA6D384DA3C699D1A7
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_21" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_21'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_3'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=80FFCA6644BF2D90D91B948C795CEAA6
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_22" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_22'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_8'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_14'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=6EA97D51476F398E78E75BB680BD7AF7
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_23" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_23'"
+      A=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_10'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=3EE95003420614092DBB5A846D6D74CA
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_24" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_24'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_19'")
+      B=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_2'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=13BEC7614E6587388D319798F1DBFDEF
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_25" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_25'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_15'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=336D7F6841526F46EF7761BB3DFB39CD
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_26" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_26'"
+      A=(Expression="/Script/Engine.MaterialExpressionAbs'M_NocturneTelevisionDistorted54:MaterialExpressionAbs_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_18'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=6A09A1E94A692BBF5253F585223D711F
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_27" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_27'"
+      A=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_11'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=007A3E464851A68D6097FC92CABC1E40
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_28" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_28'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_24'")
+      B=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_4'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=2520
+      MaterialExpressionGuid=FB7CFBB84F6B46BD207BD2B7AF38C761
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_29" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_29'"
+      A=(Expression="/Script/Engine.MaterialExpressionLinearInterpolate'M_NocturneTelevisionDistorted54:MaterialExpressionLinearInterpolate_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_0'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=2520
+      MaterialExpressionGuid=B0C94F9A46B5BEF78728C59CD0F91AD6
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_6'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=1EBDBE574A5F2F5EAD39E491E7B0A07F
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_4'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=0FC3694A4BDE2BAB89DC60B550CEDAC4
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_5'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_7'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=86A093394AD5E495ECCDE2970BE46997
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_5'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=3B25700E49329B3E1DD203B41D9E35E2
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_7'"
+      A=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_8'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_0'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=540
+      MaterialExpressionGuid=564E63CD4862FB5695315D82453E5956
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_8'"
+      A=(Expression="/Script/Engine.MaterialExpressionSine'M_NocturneTelevisionDistorted54:MaterialExpressionSine_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_2'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=A4830A7B40B28158C5B4C8AA1A891EFC
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9" ExportPath="/Script/Engine.MaterialExpressionMultiply'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_9'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_3'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=2E4962AE45068751CBDC8FA78F769492
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_0" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_2'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=28DD4AAD478C55CD3BD17CABF772337D
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_1" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_3'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=81EA71EE4F2AD1ECF4D001B8381206B8
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_2" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_5'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=63CC34374193D057BBF97D9F258ACE64
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_3" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_3'"
+      Input=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_6'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=5AE1D4704FF822057677F0805FA4DDB9
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_4" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionOneMinus_4'"
+      Input=(Expression="/Script/Engine.MaterialExpressionSaturate'M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_7'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=E32028D34405F9448D08D99E7AFAA81A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_0" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_1'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=A88AF14147555A4255C5B9979C80D648
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_1" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_2'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=8EE5ACF04A71A3773889079CAABB4F50
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_2" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_9'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=1080
+      MaterialExpressionGuid=E8A22ED848BE55F6C335A58C87F28528
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_3" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_3'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_18'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=FC2468CB4B22732AA1A1A9B00AB8CAF0
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_4" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_4'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_22'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=0E63DD3F4C5D2C3448E2FCA5EC662418
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_5" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_5'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_23'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=1980
+      MaterialExpressionGuid=28FD67D448DB65F4E07F87B5D8A1A49A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_6" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_6'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_26'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=2163DC6640A0C457B62042867E128D26
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSaturate_7" ExportPath="/Script/Engine.MaterialExpressionSaturate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSaturate_7'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_27'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=2340
+      MaterialExpressionGuid=E01FD9AC41270FA3127681A5C98E1EB4
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_0'"
+      DefaultValue=2.500000
+      ParameterName="EmissiveIntensity"
+      ExpressionGUID=4C353D7E4B97A84E634803A1B6B4F02B
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionGuid=D7B19D974A9C7E0D31235CA1F11B7D37
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_1'"
+      DefaultValue=1.000000
+      ParameterName="DistortionEnabled"
+      ExpressionGUID=B64C9FF94E7C31C8BB28098A4B1EAC8E
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionGuid=F6B5AE954A6D031ADA3EDDB9D38D3783
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_10" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_10'"
+      DefaultValue=0.450000
+      ParameterName="VignetteIntensity"
+      ExpressionGUID=D999FD4A492BB4218E8C49BFC41F92E0
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=D1FAE6A940BFE7454D5A90969174CAEE
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_11" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_11'"
+      DefaultValue=0.180000
+      ParameterName="TrackingBarIntensity"
+      ExpressionGUID=91A469B64DA69F981185578182B76C2D
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=4EFD14B8463E95F06D3D92B0D6BE946E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_2'"
+      DefaultValue=0.800000
+      ParameterName="DistortionAmount"
+      ExpressionGUID=480DB7CB4A9975E37DCE4FB1BB851C5A
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionGuid=A0134DF34292F4324C64DD8689E3632F
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_3'"
+      DefaultValue=0.220000
+      ParameterName="ScanlineIntensity"
+      ExpressionGUID=D2EE018C4659082DFC9D3EA5FDBD2E10
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionGuid=6C5E4AD14ABBCFA6D48A65B8B55B5964
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_4'"
+      DefaultValue=280.000000
+      ParameterName="ScanlineDensity"
+      ExpressionGUID=9E0723D947522B47D0C19F988CA785CE
+      MaterialExpressionEditorX=-920
+      MaterialExpressionGuid=E8D6AB794F1B0A15301C0B9EC4E7DB8B
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_5'"
+      DefaultValue=0.120000
+      ParameterName="NoiseIntensity"
+      ExpressionGUID=770EA31D4B600C0D4E08519517CC7F09
+      MaterialExpressionEditorX=-700
+      MaterialExpressionGuid=C56826864A551071DDECCD9496D6E5C4
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_6" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_6'"
+      DefaultValue=0.012000
+      ParameterName="HorizontalJitter"
+      ExpressionGUID=685B0D784B2A025BF767BE8409438153
+      MaterialExpressionEditorX=-480
+      MaterialExpressionGuid=9E05506A47F7EB9591A172AC690ED9CD
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_7'"
+      DefaultValue=0.015000
+      ParameterName="VerticalRollSpeed"
+      ExpressionGUID=1CF3C56949728978E2F5078BF13B67B1
+      MaterialExpressionEditorX=-260
+      MaterialExpressionGuid=0158E2FF4919A0261FBD048D7B0DD1ED
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_8'"
+      DefaultValue=0.004000
+      ParameterName="ChromaticAberration"
+      ExpressionGUID=10CE97D44B0D9F4EDCE6838BB76F995D
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=ABD2CA43452C6090EFA637A96985E787
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_9" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionScalarParameter_9'"
+      DefaultValue=0.060000
+      ParameterName="FlickerIntensity"
+      ExpressionGUID=746B2F5F4649EAB1D1D69EB4C8617870
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=7A61B6264CA52A5B46D15080C591732A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSine_0" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_0'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=5905F4964A0FDD4F48D2D99CC4F66ABF
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSine_1" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_1'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=319228034A220C9656C4F6B55987C70E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSine_2" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_5'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=1260
+      MaterialExpressionGuid=52EF3CB2484CF198707DFEB21A5D534F
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSine_3" ExportPath="/Script/Engine.MaterialExpressionSine'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSine_3'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_16'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=1620
+      MaterialExpressionGuid=5084A48F4276AE1394FBE98E0D654B7A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionAppendVector'M_NocturneTelevisionDistorted54:MaterialExpressionAppendVector_1'")
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=04C666034F9194254A6229A0777EAD8E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_1" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_8'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=1440
+      MaterialExpressionGuid=958CF7DC4ACD3B441C054780AB58A70A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_2" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_12'")
+      MaterialExpressionEditorX=-1140
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=AE0851674468CC93BA1A08AFEBA1EC93
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_3" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_13'")
+      MaterialExpressionEditorX=-700
+      MaterialExpressionEditorY=1800
+      MaterialExpressionGuid=5ECE03F24D5F48AA38A2D49E07382C6A
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_4" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_4'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_NocturneTelevisionDistorted54:MaterialExpressionComponentMask_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_25'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=F562F4D7419A1531241089A1888361A7
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_5" ExportPath="/Script/Engine.MaterialExpressionSubtract'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_5'"
+      A=(Expression="/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionConstant'M_NocturneTelevisionDistorted54:MaterialExpressionConstant_17'")
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=2160
+      MaterialExpressionGuid=003DA655407FDBAB31A2C798A95F5A7D
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0" ExportPath="/Script/Engine.MaterialExpressionTextureCoordinate'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'"
+      MaterialExpressionEditorX=-260
+      MaterialExpressionEditorY=180
+      MaterialExpressionGuid=6B2D6B844740D96BA112729A18259708
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_0'"
+      ParameterName="VideoTexture"
+      ExpressionGUID=79302EE644A184D0B6D57F8614AB99F3
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionTextureCoordinate'M_NocturneTelevisionDistorted54:MaterialExpressionTextureCoordinate_0'")
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=6C9395F842FBB8521CCF02A93CC026FB
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_1" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_1'"
+      ParameterName="VideoTexture"
+      ExpressionGUID=7CA27D92422933BBCFCC04842BEEC1EE
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionAdd'M_NocturneTelevisionDistorted54:MaterialExpressionAdd_2'")
+      MaterialExpressionEditorX=-920
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=26FF043940149C14D60F29A8F57BEBB4
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_2" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_2'"
+      ParameterName="VideoTexture"
+      ExpressionGUID=712F8CF34A7C5B55D12A0F934E227963
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionFrac'M_NocturneTelevisionDistorted54:MaterialExpressionFrac_0'")
+      MaterialExpressionEditorX=-480
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=C33E1DE640F09996A6B70D9266FB6574
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_3" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTextureSampleParameter2D_3'"
+      ParameterName="VideoTexture"
+      ExpressionGUID=45DDD546492DF94D13E0949FF196EC15
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionSubtract'M_NocturneTelevisionDistorted54:MaterialExpressionSubtract_0'")
+      MaterialExpressionEditorX=-1580
+      MaterialExpressionEditorY=900
+      MaterialExpressionGuid=1027BF2A468750EA4D81F0BA753B171E
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionTime_0" ExportPath="/Script/Engine.MaterialExpressionTime'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionTime_0'"
+      MaterialExpressionEditorX=-1800
+      MaterialExpressionEditorY=360
+      MaterialExpressionGuid=BDBF793A493778C6142BFBBA5EF5D05F
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   Begin Object Name="MaterialExpressionSubstrateShadingModels_0" ExportPath="/Script/Engine.MaterialExpressionSubstrateShadingModels'/NocturneTelevision/Materials/M_NocturneTelevisionDistorted54.M_NocturneTelevisionDistorted54:MaterialExpressionSubstrateShadingModels_0'"
+      EmissiveColor=(Expression="/Script/Engine.MaterialExpressionMultiply'M_NocturneTelevisionDistorted54:MaterialExpressionMultiply_29'")
+      ShadingModelOverride=MSM_Unlit
+      MaterialExpressionGuid=FA7F31EB48E999BFAC54AD9FD9C6B358
+      Material="/Script/Engine.Material'M_NocturneTelevisionDistorted54'"
+   End Object
+   ShadingModel=MSM_Unlit
+   ShadingModels=(ShadingModelField=1)
+   TwoSided=True
+   EditorX=350
+   bCanMaskedBeAssumedOpaque=True
+   RefractionCoverageMode=RCM_CoverageIgnored
+   StateId=65A4879C65A017D324218427A6BFDA65
+   EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'M_NocturneTelevisionDistorted54EditorOnlyData'"
+   LightingGuid=0885031C44392BBB727E62B682DB083B
+End Object
